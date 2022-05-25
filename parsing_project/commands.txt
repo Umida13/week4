@@ -1,0 +1,7 @@
+1) python3 -m venv venv - ceate virtual environment
+
+2) source(.) venv/bin/activate (deactivate)
+3) pip freeze - проверка модулей в окружении
+4) все зависимости записываем в файл requirements.txt
+5) pip install name_module==ver (-r requirements.txt)
+pip freeze > requirements.txt

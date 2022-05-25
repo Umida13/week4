@@ -1,0 +1,32 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/* селектор по тегу */
+h2 {
+    color: blueviolet;
+    background-color: bisque;
+    font-size: 80px;
+}
+
+
+
+/* селектор по классу,обрщ черезт точку */
+
+.classH2 {
+    color: aqua;
+    background-color: blue;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+
+/* селектор по id */
+#tittle {
+    background-color: green;
+    color: pink;
+    font-size: 30px;
+}
